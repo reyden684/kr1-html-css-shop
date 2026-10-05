@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#eef5ff"/>
+  <rect x="210" y="120" width="380" height="300" rx="24" fill="#ffffff" stroke="#0057b8" stroke-width="8"/>
+  <path d="M280 360 370 250l70 85 55-65 65 90z" fill="#0057b8" opacity="0.8"/>
+  <circle cx="500" cy="210" r="34" fill="#0057b8" opacity="0.8"/>
+  <text x="400" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="44" fill="#222222">Товар 1</text>
+</svg>
